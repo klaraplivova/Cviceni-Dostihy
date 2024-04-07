@@ -1,8 +1,10 @@
 # Cvičení: Dostihy
 
+![dostihová dráha](podklady/draha.png)
+
 ## Zadání
 
-Vítejte na [dostihové dráze](https://codepen.io/ondrejzara/pen/WNQxoGL?editors=1100)! Závodiště v Chuchli je kvůli epidemii zavřené, koně fungují jen online.
+Vítejte na dostihové dráze! Závodiště v Chuchli je kvůli epidemii zavřené, koně fungují jen online.
 
 Aktuálně jsou všichni závodníci – čtyři koně a jeden jednorožec – na startu. Cílem je vylepšit situaci tak, aby bylo možné závody uspořádat.
 
