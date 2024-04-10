@@ -53,3 +53,23 @@ ul::after {
 }
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
+
+li {
+	transition: margin-left 3s;
+}
+
+li:nth-child(2) {
+	transition-timing-function: linear;
+}
+
+li:nth-child(3) {
+	transition-timing-function: ease-in;
+}
+
+li:nth-child(5) {
+	transition-timing-function: steps(5);
+}
+
+ul:hover li {
+	margin-left: 0%;
+}
